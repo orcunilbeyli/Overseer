@@ -1,0 +1,48 @@
+/*
+FONTS
+These fonts are used in Overseer. You can change this by simply replace the font name. DON'T FORGET TO LINK proper font files in <head></head>
+*/
+
+$font-stack: 'Oxygen',
+sans-serif;
+$heading-family: 'Arimo',
+sans-serif;
+
+/*
+FONT SIZES
+You can edit all font sizes easily from here.
+*/
+
+$paragraph-size: 1.6rem;
+$heading-size: 3.4em;
+$heading-size-2: 3.0em;
+$heading-size-3: 2.8em;
+$heading-size-4: 2.4em;
+$heading-size-5: 2.0em;
+$heading-size-6: 1.6em;
+$hero-h2:1em;
+
+/*
+FONT COLORS
+p stands for paragraph. h stands for heading.
+*/
+
+$primary-color: #2E2633;
+$accent-color: #2196F3;
+$sec-accent-color: #A300FF;
+$hover-accent: #263238;
+$white: #efefef;
+$dark-white:#acacac;
+$dark-bg: #2E2633;
+
+/*
+MISC
+Some quick codes for something quick.*/
+
+$full-width: 100vw;
+$full-height: 100vh;
+$mauto:auto;
+$margin-bottom:25px;
+$line-height: 25px;
+$input-padding:7px;
+$widget-vertical-margin: 50px;
